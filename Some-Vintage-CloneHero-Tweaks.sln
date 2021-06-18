@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FretEdit", "FretEdit\FretEdit.csproj", "{01AB5BA9-4B09-4BEB-81DC-6414A16CAD85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveScoreCounter", "MoveScoreCounter\MoveScoreCounter.csproj", "{221E7975-9F37-44E0-8F56-424F0433767C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01AB5BA9-4B09-4BEB-81DC-6414A16CAD85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AB5BA9-4B09-4BEB-81DC-6414A16CAD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AB5BA9-4B09-4BEB-81DC-6414A16CAD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AB5BA9-4B09-4BEB-81DC-6414A16CAD85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221E7975-9F37-44E0-8F56-424F0433767C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221E7975-9F37-44E0-8F56-424F0433767C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221E7975-9F37-44E0-8F56-424F0433767C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221E7975-9F37-44E0-8F56-424F0433767C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A6253CA-9AD7-4F66-B9E4-72608C33D525}
+	EndGlobalSection
+EndGlobal
